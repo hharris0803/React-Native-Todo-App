@@ -39,13 +39,13 @@ const styles = StyleSheet.create({
         position: 'absolute',
         justifyContent: 'center',
         alignItems: 'center',
-        backgroundColor: '#2980b9',
+        backgroundColor: '#ffc0cb',
         padding: 10,
         top: 10,
         bottom: 10,
         right: 10
     },
     noteDeleteText: {
-        color: 'white'
+        color: '#000'
     }
 });

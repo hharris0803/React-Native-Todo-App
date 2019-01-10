@@ -78,10 +78,10 @@ const styles = StyleSheet.create({
         alignItems: 'center',
         justifyContent:'center',
         borderBottomWidth: 20,
-        borderBottomColor: '#ffffff'
+        borderBottomColor: '#fff'
     },
     headerText: {
-        color: '#000000',
+        color: '#000',
         fontSize: 25,
         padding: 30
     },
@@ -102,7 +102,7 @@ const styles = StyleSheet.create({
         padding: 20,
         backgroundColor: '#252525',
         borderTopWidth:2,
-        borderTopColor: '#ffffff'
+        borderTopColor: '#fff'
     },
     addButton: {
         position: 'absolute',
@@ -118,7 +118,7 @@ const styles = StyleSheet.create({
         elevation: 8
     },
     addButtonText: {
-        color: '#000000',
+        color: '#000',
         fontSize: 24
     }
 });
